@@ -55,5 +55,17 @@ La sección inferior es muy parecida a la anterior, contiene más o menos los mi
 
 Para la última ventana tenemos un encabezado (BLOG, SEE), una línea divisoria entre elementos, debajo, tenemos 3 elementos (THINK) que son 3 entradas al blog de Laboratoria, por debajo, tenemos un texto con un enlace que lleva al BLOG (enlace en amarillo).
 Y al pie de página tenemos el footer con el logo(SEE), un texto (THINK) y del lado derecho, un menú vertical con tres opciones (Contáctanos, Trabaja con nosotros y Blog, DO).
+-----------------------------------------------------------------------------------------------------------------------
+En la página de GitHub encontramos varios elementos de navegación, iniciando con una barra de navegación horizontal que contiene el logo, seguido por cuatro elementos de menú uno al lado del otro: Features| Business|Explore |Marketplace| Pricing, (navegación global)cada una de estas opciones nos cambia de pestañas en la misma línea pero del lado derecho tenemos la barra de busqueda con el mensaje "Search GitHub" y a su lado las opciones para loguearse o registrarse.
+
+Debajo tenemos un texto descriptivo (navegación en línea) de a quien va dirigido este sitio y a su lado tenemos un formulario para registrarse, con el boton de envio del formulario en verde, llamativo, bordes redondeados y tipografía blanca.
+En la siguiente pantalla viene la navegación local, por un lado tiene un boton en la parte superior, que invita a integrarse a un equipo, (recordemos que GitHub es un espacio de trabajo colaborativo) Debajo tiene una imagen alusiva a esto y a su lado tiene tres parrafos y cada uno tiene un link que te lleva a otra sección (refresca la página, no te abre una nueva ventana).
+Durante los pasos para el registro tengo duda si es (navegación suplementaria).
+Posteriormente tenemos una nueva sección cuyo fin es proporcionar información y tener un botón para acceder a la sección de GitHub para empresas, que incluye otras funcionalidades y tiene costo, eso también te refresca el sitio.
+Debajo tenemos la sección dónde  se muestran las alianzas y "casos de exito" es muy visual y sencillo, tiene poco texto un gran boton que te invita a otra sección, el botón cambia de color cuando te posicionas sobre el, en la parte de abajo tenemos otro texto  y un link para el marketplace. (navegación local).
+En la siguiente sección(scroll abajo) nos muestra un grán título de sección y un menú tipo carrusel que tiene una barra de scroll de izquierda a derecha, en este menú tenemos las imágenes de varios personajes unos más famosos que otros y cada uno al clikear su nombre te cambia la página a una semblanza del personaje.(navegación global)
+Posteriormente vienen las estádísticas o indicadores y tres párrafos que vuelven a tocar los puntos centrales de GitHub, trabajo colaborativo, que es para desarrolladores(open source) y que también es para empresas(pago), debajo  contiene los logotipos de marcas cuyos equipos usan GitHub.
+Posteriormente tenemos nuevamente un formulario para crear una cuenta.
+En el footer tenemos un menú más amplio (navegación global).
 
 ![Dashboard](./assets/images/Dashboard.png)
